@@ -21,7 +21,7 @@ git clone https://github.com/MelinaMoraiti/ShellUtil.git
 3. Run each script from the command line by providing appropriate parameters as specified in the usage instructions within each script file.
 
 ## Example
-To run the **bck** script:
+To run the **bck1** script:
 ```bash
-./bck [OWNER] [SOURCE] [DEST] [TIME]
+./bck1 [OWNER] [SOURCE] [DEST] [TIME]
 ```
